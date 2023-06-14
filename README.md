@@ -1,4 +1,6 @@
-# README - Cena Unity - Jogo com Raycast e Iluminação
+# Cena Unity - Jogo com Raycast e Iluminação
+
+![Cena](https://github.com/Davignz/Cena-Raycast/assets/72495823/eaa87bec-a7da-4cef-94fe-c240c6dc2668)
 
 ## Descrição
 
@@ -6,7 +8,13 @@ Esta cena Unity foi criada para fazer o uso dos conceitos de raycast e iluminaç
 
 ## Sobre o Projeto
 
-O projeto 
+### Ambiente
+
+O ambiente foi feito de forma básica, com um plano sendo o chão, o céu escuro e uma névoa de fundo.
+
+### Prefabs
+
+Existem três prefabs no jogo: A munição, o Player e o Inimigo. Os prefabs do Player e do Inimigo possuem semelhanças, como ter o corpo em formato de cápsula, uma "viseira" e uma "arma"
 
 ## Autores
 
