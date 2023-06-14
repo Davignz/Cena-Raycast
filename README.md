@@ -1,6 +1,6 @@
 ## Conteúdo
 
-* [Descrição](#descricao)
+* [Descrição](#descrição)
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Autores](#autores)
 
