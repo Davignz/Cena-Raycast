@@ -64,11 +64,11 @@ Os códigos compõem a parte mais importante da cena, dando toda a funcionalidad
 
 ![MiraVerde](https://github.com/Davignz/Cena-Raycast/assets/72495823/5ac34062-280a-4547-b047-d057781c7ab4)
 
-![Acertou](https://github.com/Davignz/Cena-Raycast/assets/72495823/5b3d3738-0f30-4ae5-992a-f9d430b14b5e)
+![NAcertou](https://github.com/Davignz/Cena-Raycast/assets/72495823/a0b779ea-de16-4f1d-a129-0086ede46fe3)
 
 ![MiraVerm](https://github.com/Davignz/Cena-Raycast/assets/72495823/88f8556a-4ddc-4ff7-8a1c-48db3b441e63)
 
-![NAcertou](https://github.com/Davignz/Cena-Raycast/assets/72495823/a0b779ea-de16-4f1d-a129-0086ede46fe3)
+![Acertou](https://github.com/Davignz/Cena-Raycast/assets/72495823/5b3d3738-0f30-4ae5-992a-f9d430b14b5e)
 
 * Gerar Inimigos <br>
   Para gerar inimigos, pegamos o prefab do inimigo e adicionamos um simples código para aparecerem clones dele na cena. Determinamos o prefab a ser gerado e a posição aleatória em que eles apareceriam. Tudo isso dentro de um loop for, gerando 10 inimigos adicionais.
